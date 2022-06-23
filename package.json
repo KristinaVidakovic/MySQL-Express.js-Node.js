@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/KristinaVidakovic/MySQL-Express.js-Node.js#readme",
   "dependencies": {
-    "nodemon": "^2.0.18"
+    "express": "^4.18.1",
+    "nodemon": "^2.0.17"
   }
 }
