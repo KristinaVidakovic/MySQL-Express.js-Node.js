@@ -1,0 +1,22 @@
+{
+  "name": "mysql-express.js-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KristinaVidakovic/MySQL-Express.js-Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KristinaVidakovic/MySQL-Express.js-Node.js/issues"
+  },
+  "homepage": "https://github.com/KristinaVidakovic/MySQL-Express.js-Node.js#readme",
+  "dependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
